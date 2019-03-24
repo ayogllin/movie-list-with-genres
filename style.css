@@ -1,0 +1,21 @@
+.card-img-top {
+	min-height: 300px;
+}
+
+.card-body {
+	min-height: 160px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.card-title {
+	margin-bottom: 0;
+}
+
+.badge {
+	font-size: 12px;
+	font-weight: 500;
+	color: #545659;
+}
